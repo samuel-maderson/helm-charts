@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-05T22:35:30.0014537-03:00"
+    created: "2023-03-05T22:46:26.116693-03:00"
     description: A Helm chart for deploy nginx application
     digest: 3c9525d6a78d044bf6e777b7f637d07c670783ee194af822e72901ec2a626788
     name: nginx
     type: application
     urls:
-    - https://github.com/samuel-maderson/helm-charts/nginx-0.1.0.tgz
+    - https://samuel-maderson.github.io/helm-charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-05T22:35:30.0009871-03:00"
+generated: "2023-03-05T22:46:26.1162012-03:00"
